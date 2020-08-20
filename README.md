@@ -1,2 +1,4 @@
 # hello-world
-This is my first repository on GitHub
+
+Hello! My name is Henry Craddock. 
+I am currently a student at University of Oregon studying Computer and Information Science.
